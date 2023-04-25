@@ -1,11 +1,12 @@
 {
 	"name": "@esinx/eslint-config",
+	"private": false,
 	"publishConfig": {
 		"access": "public"
 	},
 	"homepage": "https://github.com/esinx/style",
 	"description": "esinx's eslint config",
-	"version": "1.0.0-1",
+	"version": "1.0.0-2",
 	"author": {
 		"name": "esinx",
 		"email": "me@esinx.net"
