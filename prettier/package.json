@@ -1,0 +1,17 @@
+{
+	"name": "@esinx/prettier-config",
+	"publishConfig": {
+		"access": "public",
+		"registry": "https://registry.npmjs.org/"
+	},
+	"description": "esinx's prettier config",
+	"version": "1.0.0-1",
+	"author": {
+		"name": "esinx",
+		"email": "me@esinx.net"
+	},
+	"main": "index.js",
+	"peerDependencies": {
+		"prettier": "*"
+	}
+}
