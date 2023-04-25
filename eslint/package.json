@@ -6,16 +6,15 @@
 	},
 	"homepage": "https://github.com/esinx/style",
 	"description": "esinx's eslint config",
-	"version": "1.0.0-2",
+	"version": "1.0.1",
 	"author": {
 		"name": "esinx",
 		"email": "me@esinx.net"
 	},
 	"main": "index.js",
-	"devDependencies": {
+	"dependencies": {
 		"@typescript-eslint/eslint-plugin": "^5.53.0",
 		"@typescript-eslint/parser": "^5.53.0",
-		"eslint": "^8.34.0",
 		"eslint-plugin-simple-import-sort": "^10.0.0",
 		"eslint-plugin-unused-imports": "^2.0.0",
 		"typescript": "^4.9.5"
