@@ -1,12 +1,12 @@
 {
 	"name": "@esinx/prettier-config",
+	"private": false,
 	"publishConfig": {
-		"access": "public",
-		"registry": "https://registry.npmjs.org/"
+		"access": "public"
 	},
 	"homepage": "https://github.com/esinx/style",
 	"description": "esinx's prettier config",
-	"version": "1.0.0-1",
+	"version": "1.0.0-2",
 	"author": {
 		"name": "esinx",
 		"email": "me@esinx.net"
