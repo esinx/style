@@ -4,6 +4,7 @@
 		"access": "public",
 		"registry": "https://registry.npmjs.org/"
 	},
+	"homepage": "https://github.com/esinx/style",
 	"description": "esinx's prettier config",
 	"version": "1.0.0-1",
 	"author": {
