@@ -6,13 +6,13 @@
 	},
 	"homepage": "https://github.com/esinx/style",
 	"description": "esinx's eslint config",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"author": {
 		"name": "esinx",
 		"email": "me@esinx.net"
 	},
 	"main": "index.js",
-	"dependencies": {
+	"peerDependencies": {
 		"@typescript-eslint/eslint-plugin": "^5.53.0",
 		"@typescript-eslint/parser": "^5.53.0",
 		"eslint": "*",
